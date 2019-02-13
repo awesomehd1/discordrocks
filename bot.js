@@ -36,4 +36,4 @@ client.on('guildMemberAdd', member => {
   });
 });
 
-client.login(process.env.BOT_TOKEN);//BOT_TOKEN is the Client Secret
+client.login('NTQ1MDU5MjgyNzE5MDgwNTEz.D0VCPg.AYDOUzODQankVWg50jREg1Qkvqk');//BOT_TOKEN is the Client Secret
